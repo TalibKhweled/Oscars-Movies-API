@@ -1,5 +1,8 @@
 # Oscars-Movies-API
 A basic API for Oscars Movies from 1921 to 2019, in JSON format. Home page and search engine for displaying information in a UI about each movie.
+
+Credit for the Home page and additional CSS on the search page goes to Negin at https://github.com/neginmhg
+
 ### Installation
 
 The web app runs on a Flask container, which handles all of the endpoints and routing between each page. Flask is a python framework, so the first thing that would need to be done is to download and install Python3, and then the python package manager pip. Pip will be used to install the Flask framework.
