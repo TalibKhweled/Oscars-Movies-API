@@ -10,8 +10,6 @@ The web app runs on a Flask container, which handles all of the endpoints and ro
 
   Download and install the latest release of python 3
 
-  <img src="/home/tk/.config/Typora/typora-user-images/image-20200513210151048.png" alt="image-20200513210151048" style="zoom:33%;" /> 
-
 - Download and run the **get-pip.py** script found at https://bootstrap.pypa.io/get-pip.py
 
   To run the script, use your command prompt to navigate to the directory the file is located and run
