@@ -1,7 +1,7 @@
   const api_url = 'http://www.omdbapi.com/?i=';
-  const api_key = '&apikey=764d52fe';
+  const api_key = '&apikey=<INSERT API KEY HERE>';
   const api_img_url = 'https://api.themoviedb.org/3/find/';
-  const api_img_key = '?api_key=3866f47ea33d41d08c3218112644fe01&language=en-US';
+  const api_img_key = '?api_key=<INSERT API KEY HERE>&language=en-US';
   var imdblink = 'https://www.imdb.com/title/';
 
   var element = document.getElementById('id');
